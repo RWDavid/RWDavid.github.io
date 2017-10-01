@@ -77,4 +77,5 @@ audio {
   margin: auto;
   border: 5px solid #4CAF50;
   width: 40%;
+  min-height: 30px;
 }
